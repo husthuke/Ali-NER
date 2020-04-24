@@ -2,6 +2,6 @@
 
 git filter-branch --env-filter '
 
-ccks2017
+ccks
 
 ali-ner
